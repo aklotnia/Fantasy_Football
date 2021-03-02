@@ -10,7 +10,7 @@ gem "pry"
 gem "require_all"
 gem "rake"
 gem "unirest"
-gem 'activerecord', '~>5.2.3'
+gem 'activerecord', '~>5.2.4'
 gem 'tty-prompt'
 gem 'random-word-generator', '~> 0.0.1'
 gem 'colorize'
