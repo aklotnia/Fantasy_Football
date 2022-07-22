@@ -68,7 +68,7 @@ GEM
       tty-screen (~> 0.7)
       wisper (~> 2.0.0)
     tty-screen (0.7.1)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unirest (1.1.2)
       addressable (~> 2.3.5)
